@@ -1,5 +1,8 @@
+# Allows use of Web Browser functionality
 import webbrowser
+# Allows use of Operating System functionality
 import os
+# Allows use of Regular Expression functionality
 import re
 
 

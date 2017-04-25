@@ -1,3 +1,4 @@
+# allows use of Web Browser functionality
 import webbrowser
 
 class Movie():
